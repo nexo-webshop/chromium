@@ -1,7 +1,7 @@
-COMPANY_FULLNAME=The Chromium Authors
-COMPANY_SHORTNAME=The Chromium Authors
-PRODUCT_FULLNAME=Chromium
-PRODUCT_SHORTNAME=Chromium
+COMPANY_FULLNAME=Nexo Studio's
+COMPANY_SHORTNAME=Nexo Studio's
+PRODUCT_FULLNAME=Nexo Browser
+PRODUCT_SHORTNAME=Nexo Browser
 PRODUCT_INSTALLER_FULLNAME=Chromium Installer
 PRODUCT_INSTALLER_SHORTNAME=Chromium Installer
 COPYRIGHT=Copyright @LASTCHANGE_YEAR@ The Chromium Authors. All rights reserved.
